@@ -1,5 +1,8 @@
 # 👋 Hi, I'm *Rukayat Mogaji*!
 
+![e922b156-c566-413c-ab19-9cc61c1716c3](https://github.com/user-attachments/assets/2c448571-1958-4498-b213-d367d2a7f045)
+
+
 
 ## 📊 *Data Analyst / Business Analyst | 💻 SQL Developer | 📈 Power BI Visualizer | ✍️ Tech Blogger*
 
