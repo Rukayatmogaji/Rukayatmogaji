@@ -22,6 +22,17 @@ Through my blog — **[The BA & Data Diaries by Rukayat 📖📊](https://rukaya
 
 ---
 
+## 🏆 *Key Strengths & Specializations*
+- **Data Analysis & Visualization** — Excel, Power BI, data storytelling, KPI tracking.  
+- **SQL Development** — Writing complex queries, database management, performance optimization.  
+- **Business Analysis** — Requirements gathering, process mapping, BRD documentation.  
+- **Dashboard & Report Creation** — Designing interactive, insightful visual dashboards.  
+- **Problem-Solving Mindset** — Turning business challenges into actionable solutions.  
+- **Communication Skills** — Translating data insights into business-friendly language.  
+- **Adaptability** — Quick learner with ability to adopt new tools and technologies.  
+- **Collaboration** — Skilled in working with cross-functional teams.
+
+
 ## 🛠 *Tech Stack & Skills*
 
 ### *Data Analysis & Visualization*
