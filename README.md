@@ -68,6 +68,40 @@ Through my blog — **[The BA & Data Diaries by Rukayat 📖📊](https://rukaya
 
 ---
 
+## 💡 *Key Projects*
+
+### 🏦 *Bank Churn Analysis*
+
+* Tools: Microsoft Excel, Pivot Table, Formulas, Power Query, Pivot Chart
+
+### 📱 *MTN Customer Churn Analysis*
+
+* Tools: Microsoft Excel, Pivot Table, Formulas, Power Query, Pivot Chart
+
+### ✈ *Airline Passenger Satisfaction Analysis*
+
+* Tools: Microsoft Excel, Pivot Table, Formulas, Power Query, Pivot Chart
+
+### 🛒 *Global Electronics Retailer Analysis*
+
+* Tools: Microsoft Excel, Pivot Table, DAX Formulas, Power Query, Pivot Chart, PowerBI, Slicers, Bookmark
+
+### 🚆 *UK Train Rides Analysis*
+
+* Tools: Microsoft Excel, Pivot Table, DAX Formulas, Power Query, Pivot Chart, PowerBI, Slicers, Bookmark
+
+### 💼 *CRM Sales Opportunities Analysis*
+
+* Tools: Microsoft Excel, Pivot Table, DAX Formulas, Power Query, Pivot Chart, PowerBI, Slicers, Bookmark
+
+### 🚔 *Motor Vehicle Theft Analysis*
+
+* Tools: Microsoft Excel, MySQL, Key Analysis
+
+### 🎬 *Netflix Movies & TV Shows Analysis*
+
+* Tools: Microsoft Excel, MySQL, Key Analysis
+
 ## 📝 *Recent Blog Posts*
 <!-- BLOG-POST-LIST:START -->
 - [Using Excel for Effective Project Management and Task Tracking (BRD)](https://rukayat.hashnode.dev/)
@@ -76,6 +110,12 @@ Through my blog — **[The BA & Data Diaries by Rukayat 📖📊](https://rukaya
 ➡ [Read more on *The BA & Data Diaries by Rukayat 📖📊*](https://rukayat.hashnode.dev/)
 
 ---
+
+## 📜 Certification And Learning
+- **Certified Business Analysis Professional (CBAP)**
+- **Business Analysis & Process Management**
+- **Data Visualisation: Empowering Business with Effective Insights Job Simulation** 
+
 
 ## 🤝 *Let’s Connect*
 📧 *Email*: mogajirukky@gmail.com  
